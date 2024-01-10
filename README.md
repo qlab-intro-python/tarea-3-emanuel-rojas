@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Egzbpk1i)
 # Plantilla de tareas
 
-## Información general
+## Información general h
 
 - Esta es una plantilla para las tareas del curso Fundamentos de Programación en Python para Macroeconomía y Finanzas. Puedes usar este repo para practicar cómo clonar un repo y hacer un pull request.
 
